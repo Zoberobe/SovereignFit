@@ -1,0 +1,28 @@
+# =========================
+# BACKEND (C# / .NET)
+# =========================
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+appsettings.Development.json
+
+# Banco de Dados SQLite 
+*.db
+*.db-shm
+*.db-wal
+
+# =========================
+# FRONTEND (Node / React / Vite)
+# =========================
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# =========================
+# SISTEMA OPERACIONAL
+# =========================
+.DS_Store
+Thumbs.db

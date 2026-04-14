@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Diary-Train/Diary-Train.API.csproj" />
+  <Project Path="DiaryTrain.Application/DiaryTrain.Application.csproj" />
+  <Project Path="DiaryTrain.Domain/DiaryTrain.Domain.csproj" />
+  <Project Path="DiaryTrain.Infrastructure/DiaryTrain.Infrastructure.csproj" />
+</Solution>
