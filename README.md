@@ -3,6 +3,8 @@
 O **SovereignFit** é um ecossistema Full Stack projetado para o monitoramento de treinos de elite (Boxe, Muay Thai, Musculação). Este projeto foi construído para demonstrar o domínio de uma arquitetura moderna, escalável e de fácil manutenção, unindo a robustez do ecossistema .NET com a agilidade do React.
 
 ---
+<img width="1340" height="614" alt="image" src="https://github.com/user-attachments/assets/00b7b3d1-817f-4a02-b455-bf1d3d1b8d0f" />
+
 
 ## 🛠️ Stack Técnica
 
